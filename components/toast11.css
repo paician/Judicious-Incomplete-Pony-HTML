@@ -38,7 +38,10 @@
 }
  
 .toast11root-class-name {
-  padding: 0px;
+  padding-top: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-bottom: 50px;
 }
  
 @media(max-width: 767px) {
